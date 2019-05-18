@@ -1,4 +1,4 @@
-package util;
+package appcaptcha.util;
 
 import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;

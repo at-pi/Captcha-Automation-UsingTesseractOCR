@@ -1,4 +1,4 @@
-package util;
+package appcaptcha.util;
 
 import org.openqa.selenium.WebElement;
 
